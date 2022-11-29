@@ -1,7 +1,8 @@
 import streamlit
-streamlit.title(' My parents healthy diner app')
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & 🥑 Rocket Smoothie')
+streamlit.text('🍞 Hard-Boiled Free-Range Egg')    
 
-streamlit.header('Breakfast menu')
-streamlit.text('Spinach, Lettuce and Bread')
-streamlit.text('Bread .. Bread .. Bread ..')
-streamlit.text('Dosa, Idly, Godhi Dosa ....')                 
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
